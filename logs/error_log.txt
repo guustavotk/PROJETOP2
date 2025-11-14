@@ -1,0 +1,24 @@
+[2025-11-13 19:41:11] [Order JSON] Pedido inválido.
+[2025-11-13 19:41:44] [Order JSON] Pedido inválido.
+[2025-11-13 19:41:47] [Order JSON] Pedido inválido.
+[2025-11-13 19:45:55] [Order JSON] Pedido inválido.
+[2025-11-13 19:47:17] [Order JSON] json_decode(): Argument #1 ($json) must be of type string, array given
+[2025-11-13 19:47:24] [Order JSON] Pedido inválido.
+[2025-11-13 19:47:28] [Order JSON] Pedido inválido.
+[2025-11-13 19:48:51] [Order JSON] Pedido inválido.
+[2025-11-13 19:48:53] [Order JSON] json_decode(): Argument #1 ($json) must be of type string, array given
+[2025-11-13 19:48:58] [Order JSON] json_decode(): Argument #1 ($json) must be of type string, array given
+[2025-11-13 19:50:28] [Order JSON] Pedido inválido.
+[2025-11-13 19:51:34] [Order JSON] json_decode(): Argument #1 ($json) must be of type string, array given
+[2025-11-13 20:00:04] [Order JSON] Pedido inválido.
+[2025-11-13 20:04:45] [Order JSON] Pedido inválido.
+[2025-11-13 20:04:57] [Order JSON] Pedido inválido.
+[2025-11-13 20:11:18] [Order JSON] Call to undefined method Order::getOrdersByUser()
+[2025-11-13 20:11:20] [Order JSON] Call to undefined method Order::getOrdersByUser()
+[2025-11-13 20:33:29] [ERROR] (8) session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\views\json\order.php line 101
+[2025-11-13 20:34:11] [ERROR] (8) session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\views\json\order.php line 101
+[2025-11-13 20:34:13] [ERROR] (8) session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\views\json\order.php line 101
+[2025-11-13 20:40:33] [Order JSON] Pedido inválido.
+[2025-11-13 20:40:35] [Order JSON] Pedido inválido.
+[2025-11-13 20:42:41] [Order JSON] Pedido inválido.
+[2025-11-13 20:43:14] [Order JSON] Too few arguments to function Order::update(), 1 passed in C:\xampp\htdocs\controllers\OrderController.php on line 53 and exactly 4 expected
